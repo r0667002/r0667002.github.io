@@ -10,7 +10,7 @@ locale                   : "en-gb"
 title                    : "Arenberg Water Wheel"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description " A passionate Home Assistant user from Belgium with a knack for tinkering."
 url                      : https://r0667002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "r0667002/r0667002.github.io"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -85,9 +85,9 @@ author:
   bio              : "Student in Electrical Engineering: Power Systems & Automation"
   location         : "Leuven, Belgium"
   employer         : "KU Leuven"
-  pubmed           : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    :
+  email            : "tibogeenen@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Tibo-Geenen"
   uri              :
   bitbucket        :
@@ -99,17 +99,17 @@ author:
   github           : "r0667002"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/internet_of_tibo/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/tibogeenen/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "tibo_geenen"
   vine             :
   weibo            :
   xing             :
