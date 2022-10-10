@@ -14,7 +14,7 @@ Why was this made?
 ======
 Originally, the subject of my thesis was looking at the economic feasibility of power production by the water mill. After measuring the actual power capabilities, it soon became clear that this project is not feasible at all. Instead, the focus was shifted to a didactic work for other students looking to find information on the workings of the water mill, along with real time information. If you happen to come across this site without knowing what the water mill looks like, you can find a picture below!
 
-![Arenberg Water Mill](/images/water-mill.png)
+![Arenberg Water Mill](/images/watermill_arenberg.jpg)
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
