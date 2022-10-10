@@ -11,6 +11,7 @@ redirect_from:
 <h1 align="center">Hi 👋, I'm Tibo</h1>
 <h3 align="center">🏡 A passionate Home Assistant user from Belgium with a knack for tinkering.</h3>
 
+
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/r0667002)
 
 - 💬 Ask me about **Home Assistant, ESPHome, Energy Engineering...**
