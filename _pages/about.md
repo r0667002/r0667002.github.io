@@ -20,7 +20,7 @@ redirect_from:
 
 - ⚡ **I make DIY projects!**
 
-- 🎡 Currently working on a thesis about the [Arenberg Water Mill](arenberg-water-mill)
+- 🎡 Currently working on a thesis about the [Arenberg Watermill](arenberg-water-mill)
 
 
 <h3 align="left">Languages and Tools:</h3>
