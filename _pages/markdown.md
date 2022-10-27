@@ -1,6 +1,6 @@
 ---
 permalink: /real-time-data/
-title: "Markdown"
+title: "Real-time Data"
 author_profile: true
 redirect_from:
   - /rtd/
