@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Arenberg Watermill"
+title: "Arenberg watermill"
 permalink: /arenberg-water-mill/
 author_profile: true
 ---
 
-This is the base for the future website showing the real-time statistics on the Arenberg Watermill. In the future, it will show [real-time data](https://tibogeenen.be/real-time-data/) like power and rotational speed, along with the possible mechanical energy it produced since December 2021.
+This is the base for the future website showing the real-time statistics on the Arenberg watermill. In the future, it will show [real-time data](https://tibogeenen.be/real-time-data/) like power and rotational speed, along with the possible mechanical energy it produced since December 2021.
 
 Why was this made?
 ======

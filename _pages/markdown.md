@@ -1,6 +1,6 @@
 ---
 permalink: /real-time-data/
-title: "Real-time Data"
+title: "Real-time data"
 author_profile: true
 redirect_from:
   - /rtd/

@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Arenberg Watermill"
+  - title: "Arenberg watermill"
     url: /arenberg-water-mill/
 
   # - title: "Talks"
@@ -15,7 +15,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
   #
-  - title: "Real-time Data"
+  - title: "Real-time data"
     url: /real-time-data/
 
   - title: "CV"
