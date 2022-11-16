@@ -11,9 +11,9 @@ redirect_from:
 
 If the embedded PDF below does not load, you can
 <u>
-  <a href="https://github.com/r0667002/r0667002.github.io/blob/master/files/Resume_Tibo_Geenen_jul22.pdf">download it here.</a>
+  <a href="https://tibogeenen.be/Resume_Tibo_Geenen_jul22.pdf">download it here.</a>
 </u>
 <br>
 <div class="fluid-width-video-wrapper" style="padding-top: 150%;">
-  <embed src="/files/Resume_Tibo_Geenen_jul22.pdf" type="application/pdf" id="fitvid0">
+  <embed src="Resume_Tibo_Geenen_jul22.pdf" type="application/pdf" id="fitvid0">
 </div>
