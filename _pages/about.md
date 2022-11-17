@@ -32,7 +32,9 @@ redirect_from:
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://standards.ieee.org/project/1800.html" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" alt="systemverilog" width="40" height="40"/> </a>
-<a href="https://yaml.org/" target="_blank"> <img src="https://static.thenounproject.com/png/2598367-200.png" alt="yaml" width="40" height="40"/> </a> </p>
+<a href="https://yaml.org/" target="_blank"> <img src="https://static.thenounproject.com/png/2598367-200.png" alt="yaml" width="40" height="40"/> </a>
+<a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank"> <img src="https://www.modena.co.za/wp-content/uploads/autodesk-fusion-360-small-social-400.png" alt="fusion360" width="40" height="40"/> </a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tibogeenen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tibogeenen" /></a></p><br><br>
