@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style>body {text-align: justify}</style>
 
-My thesis did research on the economic feasibility of power production by the watermill next to the Arenberg Castle in Leuven, Belgium. There is a seperate website for this project, I'll meet you [there](https://arenberg-watermill.github.io/)!
+My thesis did research on the economic feasibility of power production by the watermill next to the Arenberg Castle in Leuven, Belgium. There is a separate website for this project, I'll meet you [there](https://arenberg-watermill.github.io/)!
 
 <figure>
   <img src="/images/watermill_arenberg_3.jpg">
