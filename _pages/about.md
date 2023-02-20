@@ -9,16 +9,16 @@ redirect_from:
 ---
 
 <h1 align="center">Hi 👋, I'm Tibo</h1>
-<h3 align="center">🏡 A passionate Home Assistant user from Belgium with a knack for tinkering.</h3>
+<h3 align="center">🏡 A passionate Home Assistant user from Belgium with a knack for tinkering</h3>
 
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/r0667002)
 
-- 💬 Ask me about **Home Assistant, ESPHome, Energy Engineering...**
+- 💬 Ask me about **Home Assistant, ESPHome, Energy engineering...**
 
 - 📫 Reach me at **tibogeenen@gmail.com**
 
-- ⚡ **I make DIY projects!**
+- ⚡ **I make DIY smart home projects!**
 
 - 🎡 Wrote a thesis about the [Arenberg Watermill](arenberg-water-mill)
 

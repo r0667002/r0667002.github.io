@@ -10,7 +10,7 @@ locale                   : "en-gb"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tibo Geenen"
-description              : &description " A passionate Home Assistant user from Belgium with a knack for tinkering."
+description              : &description " A passionate Home Assistant user from Belgium with a knack for tinkering"
 url                      : https://tibogeenen.be # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "r0667002/r0667002.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tibo Geenen"
   avatar           : "profile.jpg"
-  bio              : "Student in Electrical Engineering: Power Systems & Automation"
+  bio              : "Electrical Engineer in Power Systems & Automation"
   location         : "Leuven, Belgium"
   employer         : "KU Leuven"
   pubmed           :
